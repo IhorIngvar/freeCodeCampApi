@@ -22,3 +22,5 @@ def get_posts():
 def create_post(post: Post):
     print(post.rating)
     return {"data": "new_post"}
+
+#Some comment 
